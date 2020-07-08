@@ -7,7 +7,8 @@
 
 <!-- badges: end -->
 
-A package to fill vacant ggplot2 facets with images.
+A package to fill vacant ggplot2 facets with images. You could advertise
+your consultancy, for example.
 
 ## Installation
 
